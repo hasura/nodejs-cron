@@ -1,0 +1,14 @@
+{
+  "name": "hasura-nodejs-cron",
+  "version": "1.0.0",
+  "description": "A simple nodejs app that runs a cron job",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaison",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.3.0"
+  }
+}
